@@ -1,6 +1,6 @@
 # PizzaStack - Food Delivery Web 🍕 🍔
 
-Foodie is a project built from React JS, Redux Toolkit, and styled responsively by Bootstrap, CSS, Reactstrap. This website was built as a food delivery website.
+PizaaStack is a project built from React JS, Redux Toolkit, and styled responsively by Bootstrap, CSS, Reactstrap. This website was built as a food delivery website.
 
 ## How to build and run
 
